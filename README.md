@@ -2,4 +2,4 @@
 <br>
 hello guys 
 <br>
-this is my practice file for learning git and github
+YOU CAN FIND MY PROJECTS I MADE IN MY LEARNING JOURNEY .
